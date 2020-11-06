@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1604685269954" stop="1604685281817" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify Invalid Login for Multiple Users | unal@gmail.com | 123test |</name>
+    <title>Verify Invalid Login for Multiple Users | unal@gmail.com | 123test |</title>
+    <test-cases>
+        <test-case start="1604685269955" stop="1604685269956" status="passed">
+            <name>Given I am on Home Page</name>
+            <title>Given I am on Home Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Ammar"/>
+                <label name="thread" value="82644@Ammar.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1604685270106" stop="1604685270106" status="passed">
+            <name>When I enter unal@gmail.com into username text fields on home screen</name>
+            <title>When I enter unal@gmail.com into username text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Ammar"/>
+                <label name="thread" value="82644@Ammar.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1604685270201" stop="1604685270201" status="passed">
+            <name>And I enter 123test into password text fields on home screen</name>
+            <title>And I enter 123test into password text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Ammar"/>
+                <label name="thread" value="82644@Ammar.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1604685270286" stop="1604685270286" status="passed">
+            <name>And I click on login button on home screen</name>
+            <title>And I click on login button on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Ammar"/>
+                <label name="thread" value="82644@Ammar.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1604685281654" stop="1604685281654" status="passed">
+            <name>Then I verify the invalid credentials</name>
+            <title>Then I verify the invalid credentials</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Ammar"/>
+                <label name="thread" value="82644@Ammar.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify Invalid Login for Multiple Users | unal@gmail.com | 123test |"/>
+        <label name="feature" value="Login Feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

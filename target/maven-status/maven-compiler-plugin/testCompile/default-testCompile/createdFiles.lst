@@ -1,0 +1,10 @@
+utils/BasePage.class
+stepDefinition/LoginPageSD.class
+stepDefinition/MessengerPageSD.class
+runnerTest/webPages/MessengerPage.class
+stepDefinition/HookClass_SharedSD.class
+utils/ConfigReader.class
+utils/ElementUtil$1.class
+runnerTest/TestRunner.class
+utils/ElementUtil.class
+runnerTest/webPages/LoginPage.class
