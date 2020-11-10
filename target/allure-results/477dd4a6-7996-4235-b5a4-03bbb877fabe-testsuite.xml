@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:test-suite start="1604685286288" stop="1604685290640" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+<ns2:test-suite start="1605040913895" stop="1605040919726" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
     <name>Verify invalid login from messenger page</name>
     <title>Verify invalid login from messenger page</title>
     <test-cases>
-        <test-case start="1604685286288" stop="1604685286288" status="passed">
+        <test-case start="1605040914034" stop="1605040914037" status="passed">
             <name>Given I am on Messenger Page</name>
             <title>Given I am on Messenger Page</title>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="Ammar"/>
-                <label name="thread" value="82644@Ammar.main(1)"/>
+                <label name="thread" value="29568@Ammar.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1604685286636" stop="1604685286636" status="passed">
+        <test-case start="1605040914674" stop="1605040914675" status="passed">
             <name>When I enter unalaby@gmail.com into username field on Messenger Page</name>
             <title>When I enter unalaby@gmail.com into username field on Messenger Page</title>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="Ammar"/>
-                <label name="thread" value="82644@Ammar.main(1)"/>
+                <label name="thread" value="29568@Ammar.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1604685286693" stop="1604685286693" status="passed">
+        <test-case start="1605040914741" stop="1605040914741" status="passed">
             <name>And I enter test123 into password field on Messenger Page</name>
             <title>And I enter test123 into password field on Messenger Page</title>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="Ammar"/>
-                <label name="thread" value="82644@Ammar.main(1)"/>
+                <label name="thread" value="29568@Ammar.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1604685290454" stop="1604685290454" status="passed">
+        <test-case start="1605040919376" stop="1605040919376" status="passed">
             <name>And I click on login button on Messenger Page</name>
             <title>And I click on login button on Messenger Page</title>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="Ammar"/>
-                <label name="thread" value="82644@Ammar.main(1)"/>
+                <label name="thread" value="29568@Ammar.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1604685290498" stop="1604685290498" status="passed">
+        <test-case start="1605040919427" stop="1605040919427" status="passed">
             <name>Then I verify invalid login message on sign in page</name>
             <title>Then I verify invalid login message on sign in page</title>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="Ammar"/>
-                <label name="thread" value="82644@Ammar.main(1)"/>
+                <label name="thread" value="29568@Ammar.main(1)"/>
             </labels>
         </test-case>
     </test-cases>

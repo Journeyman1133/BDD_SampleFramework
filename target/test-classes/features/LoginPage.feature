@@ -5,6 +5,7 @@ Feature: Login Feature
   Background:
     Given I am on Home Page
 
+  @login
   Scenario Outline: Verify Invalid Login for Multiple Users
 
     When I enter <username> into username text fields on home screen
